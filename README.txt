@@ -1,5 +1,5 @@
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-# CIS 120 Game Project README
+CIS 120 Game Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ===================
@@ -9,7 +9,7 @@
 - List the four core concepts, the features they implement, and why each feature
   is an approprate use of the concept. Incorporate the feedback you got after
   submitting your proposal.
-
+  
   1. 2D arrays:
   
   Feedback: What types are you storing in the 2D array? 
