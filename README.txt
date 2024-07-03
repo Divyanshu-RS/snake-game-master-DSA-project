@@ -1,6 +1,5 @@
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Game Project README
-PennKey: angelf
+# CIS 120 Game Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ===================
