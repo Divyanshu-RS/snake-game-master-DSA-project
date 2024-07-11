@@ -1,10 +1,8 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Game Project README
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+# Snake Game Master
 
-===================
-=: Core Concepts :=
-===================
+
+## Core Concepts
+
 
 - List the four core concepts, the features they implement, and why each feature
   is an approprate use of the concept. Incorporate the feedback you got after
@@ -65,9 +63,7 @@ CIS 120 Game Project README
   for the most part and I do not need the Deque properties of a LinkedList.
 
 
-=========================
-=: Your Implementation :=
-=========================
+## Your Implementation
 
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
@@ -144,10 +140,7 @@ CIS 120 Game Project README
   but each with a separate label. 
 
 
-
-========================
-=: External Resources :=
-========================
+## External Resources
 
 - Cite any external resources (libraries, images, tutorials, etc.) that you may
   have used while implementing your game.
